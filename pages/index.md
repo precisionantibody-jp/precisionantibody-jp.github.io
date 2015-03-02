@@ -16,7 +16,7 @@ title: Navigation
 - [Proprietary Technology](/pages/02/)
 
 
-**3) [Production & Purification]**
+**3) Production & Purification**
 
 - [抗体の精製](/pages/09-antibody-purification/)
 - [抗体の作成	](/pages/08-generation-of-antibodies/)
