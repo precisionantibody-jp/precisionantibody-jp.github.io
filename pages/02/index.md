@@ -2,7 +2,8 @@
 layout: page
 title: Proprietary Technology
 ---
-- このパンフレットの内容：
+このパンフレットの内容：
+
 - 抗体開発サービスの概要
 - ポリクローナル抗体
 - モノクローナル抗体
