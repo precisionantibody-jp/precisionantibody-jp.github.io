@@ -1,3 +1,7 @@
+---
+layout: page
+title: Navigation
+---
 **1) [なぜPrecision Antibodyを選ぶのか？](/pages/01-why-choose-precision-antibody/index.html)**
 
 
