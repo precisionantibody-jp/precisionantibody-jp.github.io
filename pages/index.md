@@ -1,7 +1,6 @@
-##1) [Why Percision](/pages/01-why-choose-precision-antibody/)
+**1) [Why Percision](/pages/01-why-choose-precision-antibody/)**
 
-
-##2) [Antibody Development](/pages/14-flow-chart/)
+**2) [Antibody Development](/pages/14-flow-chart/)**
 
 - [抗体の作成](/pages/08-generation-of-antibodies/)
 - [モノクローナル抗体　（１)](/pages/05-monoclonal-antibody-01/)
@@ -12,15 +11,15 @@
 - [Proprietary Technology](/pages/02/)
 
 
-##3) [Production & Purification](/pages/09-antibody-purification/)
+**3) [Production & Purification](/pages/09-antibody-purification/)**
 
 - [抗体の作成	](/pages/08-generation-of-antibodies/)
 
-##4) Characterization Services
+**4) Characterization Services**
 
 - [Biacore分析－１](/pages/10-biacore-01/)
 - [Biacore分析－２](/pages/11-biacore-02/)
 - [Octet 解析サービス－１](/pages/12-octet-services-01/)
 - [Octet 解析サービス－２](/pages/13-octet-services-02/)
 
-##5) Assay Development
+**5) Assay Development** (remove for now)
